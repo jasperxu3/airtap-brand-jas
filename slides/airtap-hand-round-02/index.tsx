@@ -316,11 +316,6 @@ const ChapterDivider = ({ number, title, intro }: { number: string; title: React
   const ink = C.green;
   return <Canvas>
     <div data-chapter={number} style={{ position: 'absolute', inset: 0, overflow: 'hidden', background, color: ink }}>
-      <svg aria-hidden="true" width={1920} height={1080} viewBox="0 0 1920 1080" style={{ position: 'absolute', inset: 0, pointerEvents: 'none' }}>
-        <svg x={1460} y={700} width={560} height={560} viewBox="30 130 655 655">
-          <path fill="none" stroke={ink} strokeWidth={3} strokeLinecap="round" strokeLinejoin="round" opacity={0.16} d="M322 153 C361 152 391 167 401 200 C414 234 409 289 403 312 C421 269 450 251 479 254 C527 259 550 284 554 323 C562 368 541 425 519 476 C541 445 568 429 593 430 C631 431 654 455 659 487 C665 521 649 548 629 572 L563 657 C526 704 493 727 447 737 C401 748 338 749 289 749 C239 747 212 742 192 732 C158 718 132 696 112 663 C83 618 70 557 62 496 C56 449 53 405 57 365 C61 319 79 280 108 259 C132 240 158 241 179 248 C198 255 211 268 220 290 C220 250 232 213 255 187 C274 166 296 154 322 153 Z" />
-        </svg>
-      </svg>
       <Box x={180} y={0} w={1560} h={1080} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', textAlign: 'center' }}>
         <div style={{ fontSize: 48, lineHeight: 1, fontWeight: 400, letterSpacing: -1.5, opacity: 0.72, marginBottom: 40 }}>{number}</div>
         <Title size={160} style={{ lineHeight: 1.04, letterSpacing: -6 }}>{title}</Title>
