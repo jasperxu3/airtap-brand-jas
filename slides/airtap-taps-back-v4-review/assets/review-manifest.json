@@ -1,0 +1,86 @@
+{
+  "stage": "visual-concepts-awaiting-user-approval",
+  "tool": "built-in image_gen",
+  "totalPages": 10,
+  "appendix": false,
+  "casesConsolidatedOnPage": 6,
+  "editableSlidesCreated": false,
+  "review": [
+    "Inspected all 10 final images for main copy, framing, mascot anatomy and task consistency.",
+    "Corrected mascot anatomy on pages 03 and 04.",
+    "Removed default option selection on page 04.",
+    "Corrected page 09 task message to compare one headphone model across sellers."
+  ],
+  "files": [
+    {
+      "page": 1,
+      "title": "核心主张",
+      "file": "01-cover.png",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "page": 2,
+      "title": "为什么会烦",
+      "file": "02-everyday-friction.png",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "page": 3,
+      "title": "概念如何成立",
+      "file": "03-concept-logic.png",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "page": 4,
+      "title": "品牌角色",
+      "file": "04-brand-character.png",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "page": 5,
+      "title": "情绪变化",
+      "file": "05-emotional-shift.png",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "page": 6,
+      "title": "三个生活场景，一种接手方式",
+      "file": "06-everyday-cases.png",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "page": 7,
+      "title": "主故事",
+      "file": "07-main-story.png",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "page": 8,
+      "title": "场景延展",
+      "file": "08-extensions.png",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "page": 9,
+      "title": "视觉表达",
+      "file": "09-visual-language.png",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "page": 10,
+      "title": "品牌收束",
+      "file": "10-closing.png",
+      "width": 1672,
+      "height": 941
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "status": "visual-review-only-awaiting-user-approval",
+  "source": "/Users/jasper/Downloads/Airtap-品牌概念提案-Taps-Back-客户版-v4.md",
+  "slideCount": 10,
+  "mainSlides": 10,
+  "appendixSlides": 0,
+  "aspectRatio": "16:9",
+  "style": "暖白、森林绿与鼠尾草色；真实生活摄影结合奶白手掌IP；大标题与精简中文内容",
+  "motion": "待视觉稿确认后决定",
+  "evidenceStatus": "仅改编用户所提供提案；未重新核验外部研究；场景与界面属于创意示意",
+  "pages": [
+    {
+      "page": 1,
+      "id": "01-cover",
+      "title": "核心主张",
+      "content": [
+        "Taps Back",
+        "Your apps make you tap. Airtap taps back.",
+        "接手生活里反复发生的数字操作。"
+      ],
+      "sourceSection": "01"
+    },
+    {
+      "page": 2,
+      "id": "02-everyday-friction",
+      "title": "为什么会烦",
+      "content": [
+        "生活里的事并不难，烦的是每次都要重新操作一遍。",
+        "购物：换几个平台，重新查一遍。",
+        "吃饭：打开外卖，重新筛一轮。",
+        "到店：准备买单，还要填一遍、找一遍。"
+      ],
+      "sourceSection": "02"
+    },
+    {
+      "page": 3,
+      "id": "03-concept-logic",
+      "title": "概念如何成立",
+      "content": [
+        "日常目标 → 重复操作 → 交出这段工作 → Airtap 接手 → Taps Back",
+        "Tap：查找、比较、填写与办理。",
+        "Back：行动关系的反转。",
+        "重点不是点得更快，而是不必每次都由你亲自点。"
+      ],
+      "sourceSection": "03"
+    },
+    {
+      "page": 4,
+      "id": "04-brand-character",
+      "title": "品牌角色",
+      "content": [
+        "接手生活里繁琐操作的那只手。",
+        "机灵 · 利落 · 有行动力 · 带一点幽默",
+        "人负责目标与选择。",
+        "Airtap 按目标与偏好，处理受支持的数字流程。"
+      ],
+      "sourceSection": "04"
+    },
+    {
+      "page": 5,
+      "id": "05-emotional-shift",
+      "title": "情绪变化",
+      "content": [
+        "从熟悉的烦，到终于不用我一直弄。",
+        "烦：又要重新操作一遍。",
+        "解气：这段工作有人接手。",
+        "轻松：回到自己的节奏。"
+      ],
+      "sourceSection": "05"
+    },
+    {
+      "page": 6,
+      "id": "06-everyday-cases",
+      "title": "三个生活场景，一种接手方式",
+      "content": [
+        "生活里的小事，不必每次重新忙一圈。",
+        "购物比价｜想买到合适的 → 查同款、对齐条件 → 差异清楚，我来选。",
+        "外卖筛选｜想吃顿合适的 → 筛菜品、整理依据 → 给出候选，说明不确定。",
+        "到店优惠｜想顺利买单 → 查规则、经确认推进 → 条件清楚，状态可核对。",
+        "创意示意；具体执行以产品实际支持范围为准。"
+      ],
+      "sourceSection": "06-A/B/C"
+    },
+    {
+      "page": 7,
+      "id": "07-main-story",
+      "title": "主故事",
+      "content": [
+        "想买一副耳机，不想把几个 App 再逛一遍。",
+        "起因：选中一款耳机。",
+        "摩擦：多平台反复查找。",
+        "委托：发出明确请求。",
+        "接手：核对并整理信息。",
+        "结果：差异与状态清楚。",
+        "回到生活：只在选择时看一眼。"
+      ],
+      "sourceSection": "06-主故事"
+    },
+    {
+      "page": 8,
+      "id": "08-extensions",
+      "title": "场景延展",
+      "content": [
+        "同一种角色，更多生活片段。",
+        "日用品复购：找回同款。",
+        "衣服换码：推进申请。",
+        "包裹整理：汇总状态。",
+        "打车比较：比较报价。",
+        "电影场次：筛选场次。",
+        "球场预约：查询空场。",
+        "每个故事，都要展示一段具体接走的工作。"
+      ],
+      "sourceSection": "06-延展场景"
+    },
+    {
+      "page": 9,
+      "id": "09-visual-language",
+      "title": "视觉表达",
+      "content": [
+        "真实生活交代动机，手掌 IP 主导动作，消息与任务界面解释产品。",
+        "生活摄影：为什么需要帮助。",
+        "手掌 IP：接走了什么工作。",
+        "消息与界面：委托、步骤、结果对应同一件事。",
+        "一次构图，只讲一个任务。"
+      ],
+      "sourceSection": "07"
+    },
+    {
+      "page": 10,
+      "id": "10-closing",
+      "title": "品牌收束",
+      "content": [
+        "生活里的事照常做，繁琐操作不必每次都由你来。",
+        "Airtap taps back."
+      ],
+      "sourceSection": "07-收束"
+    }
+  ],
+  "userRevision": "删除附录；购物、外卖、到店优惠三个具体案例合并为一页。"
+}

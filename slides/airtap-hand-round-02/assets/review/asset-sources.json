@@ -1,0 +1,76 @@
+{
+  "figma": [
+    {
+      "name": "imgImage99",
+      "url": "https://www.figma.com/api/mcp/asset/be0c60a4-4956-476e-8ef7-480db5aefeb8.png"
+    },
+    {
+      "name": "imgImage126",
+      "url": "https://www.figma.com/api/mcp/asset/93c1d635-aa68-47a9-a802-75183dbc56f9.png"
+    },
+    {
+      "name": "imgImage97",
+      "url": "https://www.figma.com/api/mcp/asset/1d567f5d-1f10-4cd3-a947-fa259bd8db4b.png"
+    },
+    {
+      "name": "imgImage65",
+      "url": "https://www.figma.com/api/mcp/asset/5605c85a-8509-4d6f-b624-37c78af33720.png"
+    },
+    {
+      "name": "imgImage123",
+      "url": "https://www.figma.com/api/mcp/asset/d9f42285-b067-4d9c-a1d1-d70031adf3a1.png"
+    },
+    {
+      "name": "imgImage124",
+      "url": "https://www.figma.com/api/mcp/asset/bbd833de-bc8a-4962-99e7-be44e9260dfb.png"
+    },
+    {
+      "name": "imgImage125",
+      "url": "https://www.figma.com/api/mcp/asset/24d93b40-4d89-44fd-9a90-0287276be08c.png"
+    },
+    {
+      "name": "imgImage1093X41",
+      "url": "https://www.figma.com/api/mcp/asset/21ff71b0-78dd-4515-a181-c4bec6ab0e28.png"
+    },
+    {
+      "name": "imgImage1153X41",
+      "url": "https://www.figma.com/api/mcp/asset/624eab0a-8eb0-4d84-86ca-1254e0c96b66.png"
+    },
+    {
+      "name": "imgImage1163X41",
+      "url": "https://www.figma.com/api/mcp/asset/a6553ccb-f02c-477c-bcd8-1a5b3654e4cc.png"
+    },
+    {
+      "name": "imgImage1173X41",
+      "url": "https://www.figma.com/api/mcp/asset/86868bf2-d53b-4546-afe0-771ab44f85e8.png"
+    },
+    {
+      "name": "imgImage1183X41",
+      "url": "https://www.figma.com/api/mcp/asset/34512978-7376-42b5-acfc-d51fdf083ef7.png"
+    },
+    {
+      "name": "imgImage127",
+      "url": "https://www.figma.com/api/mcp/asset/94608d3b-b415-43a8-a575-738e6b892232.png"
+    },
+    {
+      "name": "imgImage128",
+      "url": "https://www.figma.com/api/mcp/asset/2805a395-56b9-4f23-8df4-987c4a06e0cb.png"
+    }
+  ],
+  "local": {
+    "rose-nose.png": "airtap-default-face/airtap-rose-nose-pair.png",
+    "nose-study.png": "airtap-default-face/airtap-default-face-pair.png",
+    "back-seams.png": "back-design-six/04-two-glove-seams.png",
+    "back-letter.png": "back-design-six/05-debossed-a.png",
+    "back-tag.png": "back-design-six/06-pink-woven-tag.png",
+    "back-recessed.png": "back-design-refined/07-organic-star-recessed.png",
+    "back-raised.png": "back-design-refined/08-organic-star-raised.png",
+    "back-knuckles.png": "back-design-refined/09-refined-knuckle-grooves.png",
+    "japan-knot.png": "ip-japan-localization-20260929/01-mizuhiki.png",
+    "japan-waves.png": "ip-japan-localization-20260929/02-seigaiha.png",
+    "japan-flower.png": "ip-japan-localization-20260929/03-sakura-tilted-v2.png",
+    "india-hero.png": "hero-india-chai-expressive-20260929/airtap-hero-india-chai.png",
+    "japan-hero.png": "hero-japan-classroom-20260929/airtap-hero-japan-desk-v2.png",
+    "japan-cafe.png": "hero-japan-window-cafe-composite-20260929/airtap-hero-japan-window-cafe.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "fileKey": "2gTR6oqRK7HG9QBdBB9CZ8",
+  "parentNode": "467:729",
+  "fetchedAt": "2026-09-29",
+  "assets": [
+    {
+      "file": "everyday.png",
+      "frame": "417:82",
+      "background": "417:83",
+      "role": "Universal; user confirmed no regional identity"
+    },
+    {
+      "file": "japan.png",
+      "frame": "459:409",
+      "background": "459:410",
+      "role": "Japan direction study"
+    },
+    {
+      "file": "india.png",
+      "frame": "466:684",
+      "background": "466:685",
+      "role": "India direction study"
+    }
+  ],
+  "implementation": "Original image fills downloaded from get_design_context asset URLs. Editable Hero typography and UI reconstructed at original 1440x1024 dimensions; whole Hero scaled uniformly within browser frame. Source screenshot used for verification only.",
+  "clientBrief": "User-supplied September 24 review: explore Hand and Shadow in India; mehndi, bangles and classical-dance shadows mentioned as references. Japan confirmed for parallel exploration, direction open. Planned late-October India launch with marketing push. This deck develops Hand only.",
+  "sourceCopy": "Your apps make you tap. Airtap taps back.",
+  "copyStatus": "Identical English copy across three Figma versions. Kept verbatim within Hero examples; not presented as completed language localization."
+}

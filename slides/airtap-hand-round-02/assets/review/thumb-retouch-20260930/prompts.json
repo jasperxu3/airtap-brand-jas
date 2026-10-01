@@ -1,0 +1,22 @@
+{
+  "tool": "built-in image_gen",
+  "common": "Use case: precise-object-edit. This is LOCAL RETOUCHING of IMAGE 1. Image 1 is the approved illustration and MUST remain identical everywhere except a small patch of the thumb. Image 2 is only an anatomy reference for how modestly the side thumb can bend. Do NOT transfer image 2's frontal pose, other fingers, face, proportions, lighting, composition or multi-view layout. Deliver the same single 1254 x 1254 transparent illustration as IMAGE 1, in the exact same placement and scale. Preserve Image 1's appealing dynamic tilt, three tall fingers, silhouette outside the thumb, palm, original cream texture and shadows, eye expression and placement, pink nose, and decorative object including its exact position, scale and rendering. Only correct the SIDE THUMB so it is a short, softly rounded outward extension with a small natural bend, like the reference's front-view thumb. Eliminate the exaggerated curled/overlong gripping thumb, keeping a smooth, anatomically restrained join to the palm. It should not gain a knuckle, joint, deep fold or extra finger. Do not redraw or restyle the rest of this image. Keep all non-thumb pixels visually unchanged. Preserve actual alpha transparency. No text, no layout/canvas changes, no new props.",
+  "variants": [
+    [
+      "star-thumb-only",
+      "star.png",
+      "LOCAL TARGET: only the cream thumb at the LOWER RIGHT of Image 1, approximately x790–1090,y735–1060. Correct its bulky bent gripping arc to a more modest short rounded extension, with less inward curl, keeping the natural contact with the bottom of the star. Keep the bright golden four-point STAR in EXACTLY its original position and at its original full size, and preserve the original excited eyes, diagonally tilted hand and all other fingers. It should remain an energetic star-carrying illustration, not a front-facing neutral hand. Everything above the thumb, all of the star, and the left/center hand must be unchanged."
+    ],
+    [
+      "heart-thumb-only",
+      "heart-beside.png",
+      "LOCAL TARGET: only the cream thumb protrusion at the RIGHT side of Image 1, approximately x839–1085,y585–842. Correct only this thumb's contour and attachment to follow the modest natural thumb shape and limited flexion in Image 2. Keep Image 1's original big pink HEART at the LOWER RIGHT, in EXACTLY the same original position and full size, including its overlap with the lower palm. Keep the original happy arch eyes and their original diagonal tilt, original hand tilt and full silhouette of every other finger. Do not straighten the whole hand or move the heart. Everything outside this thumb patch must remain the original Image 1."
+    ]
+  ],
+  "reference": "/Users/jasper/Documents/ChatGPT/airtap script/slides/airtap-hand-round-02/assets/review/standard-transparent.png",
+  "originalAssets": "/Users/jasper/Documents/ChatGPT/airtap script/slides/airtap-hand-round-02/assets/review/interaction-variants-20260930",
+  "outputs": {
+    "star-thumb-only": "/Users/jasper/Documents/ChatGPT/airtap script/slides/airtap-hand-round-02/assets/review/thumb-retouch-20260930/star-thumb-only.png",
+    "heart-thumb-only": "/Users/jasper/Documents/ChatGPT/airtap script/slides/airtap-hand-round-02/assets/review/thumb-retouch-20260930/heart-thumb-only.png"
+  }
+}

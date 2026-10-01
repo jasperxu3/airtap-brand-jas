@@ -1,0 +1,14 @@
+[
+  {
+    "page": 3,
+    "prompt": "Edit this presentation slide only to correct the composition. Preserve ALL Chinese copy, all footer text, page number 03, typography size and locations, exact dark forest palette, timeline, labels, lower text. REMOVE the cream hand character and its three accent marks completely from above the Airtap 接手 point, restoring uninterrupted flat dark forest background there. Keep the sage curved timeline and its simple circular point. Make the large serif headline read \"Taps Back.\" with a clear visible space between Taps and Back; preserve its size and baseline. Do not add new content or shift other items. Output one complete 16:9 slide."
+  },
+  {
+    "page": 4,
+    "prompt": "Correct only the mascot anatomy and UI selection detail on this slide, keeping the exact overall composition, text, photo lighting and all typography and footer 04 unchanged. Mascot must match second reference: THREE upright rounded fingers and ONE right-side thumb, four digits TOTAL, then a continuous rounded palm bottom. The current extra projecting finger/arm that touches the front edge of the comparison card near the bottom center MUST BE REMOVED: restore a smooth continuous rounded palm silhouette behind the card, with no gripping hand. The digital comparison card should float freely in front, without being held. Also replace the lower row's green checkmark with the same empty neutral outlined circle as upper row, so it shows two available options without making the choice for the user. Preserve the face, full-size existing right thumb, three tall fingers, all Chinese text, colors, and layout. Output the same complete wide slide."
+  },
+  {
+    "page": 9,
+    "prompt": "Make ONE highly targeted correction to this presentation slide. Preserve the entire slide's layout, all headings and body copy, colors, footer 09, original cream four-digit hand IP, all photography and product comparison screen. Only replace the small white speech bubble near the mascot (it currently incorrectly says compare two different headphones). It must become a modest BLUE outgoing iMessage-style user task bubble with a small right-side directional tail, and its EXACT white Simplified Chinese text must be \"帮我比一下这款耳机。\" arranged cleanly over 2 lines if needed. This expresses ONE selected model compared across sellers, not two different models. No other added words. The task bubble must remain in approximately the same location and size, with no overlap with the mascot or title. Keep all other pixels as close as possible. Output one complete 16:9 slide."
+  }
+]

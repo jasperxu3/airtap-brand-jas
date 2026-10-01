@@ -1,0 +1,6 @@
+Typography alignment to access-copy-corrected.png
+DM Sans Bold 74 px, headline baselines 164/238, x=65.
+DM Sans Regular 32 px, body baselines 314/353, x=65.
+Original vector logo box x=814 y=1331 width=207 height=52.
+Original artwork is retained outside two masked copy/logo cleanup patches.
+Built-in image_gen prompt: Remove only top headline/description and bottom-right logo; reconstruct their blue sky background; preserve all characters, the phone panel, panel wording, circles and lighting. The cleaned areas are composited locally over the original supplied poster. Exact typography and logo are embedded as SVG overlays.

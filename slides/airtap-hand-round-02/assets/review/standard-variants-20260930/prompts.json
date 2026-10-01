@@ -1,0 +1,18 @@
+{
+  "method": "Built-in image_gen; transparent background",
+  "identityReference": "/Users/jasper/Downloads/airtap/outputs/ip-expressions/current/airtap-ip-standard-three-views.png",
+  "expressionReference": "/Users/jasper/Downloads/airtap/outputs/ip-expressions/current/airtap-expression-guide-v6.png",
+  "status": "Slide variants; the original approved standard is unchanged.",
+  "expressions": {
+    "file": "expressions.png",
+    "source": "exec-25d68562-cf62-4c62-9e4a-9372b30b30bf.png",
+    "initialSource": "exec-8b103461-5575-4b42-83b6-a68cef699f4f.png",
+    "finalPrompt": "Edit only the sheet layout and padding. Keep all eight existing Airtap characters exactly the same: their long finger proportions, palm silhouette, expressions, pink nose colors, face placement, ivory color and materials MUST be preserved unchanged. Make every character smaller by 25 percent, and CENTER it within its own cell of a perfectly regular four-column two-row grid. Transparent 2:1 landscape canvas. Each sprite must fit entirely inside the middle 72% of its cell width and the middle 76% of its cell height. Restore any missing tip of the far-right thumbs that touched the source sheet edge. All eight sprites need abundant transparent padding on all four sides. NOTHING touches any canvas edge or neighboring cell. Eight whole characters, same order, same scale, same original front view. No labels, text, frames, floor, shadows, props or additional graphics."
+  },
+  "motion": {
+    "file": "motion.png",
+    "source": "exec-614eb039-2800-42cb-8431-5d8d8374bd38.png",
+    "initialSource": "exec-cac33dcb-a6f0-4897-b687-f2537760bfd5.png",
+    "finalPrompt": "Edit only padding/layout and the shallow back-star detail. Preserve exactly these three Airtap poses from image 1, their long fingers, body geometry, expressive eyes, pink nose, ivory color, lighting and matte material. Arrange in 3 exactly equal columns on a 3:1 wide transparent canvas. Reduce each character to fit entirely inside the central 72% of its own cell width and central 76% height. Center all three, fully uncropped, with generous empty alpha on every side and between cells. Restore the tiny outer thumb edge on the right character if missing. No sprite touches any canvas edge. The center tapping hand's star should match the extremely shallow, soft, integrated four-point back relief in image 2, slightly smaller and with minimal shadow, not a separate prominent badge. Everything else about the existing poses stays the same. No text, labels, shadows on background, floor, props, or additional characters."
+  }
+}

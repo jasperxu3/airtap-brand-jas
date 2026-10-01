@@ -1,0 +1,5 @@
+{
+  "outputDirectory": "dist",
+  "redirects": [{ "source": "/", "destination": "/s/airtap-hand-round-02" }],
+  "rewrites": [{ "source": "/s/airtap-hand-round-02", "destination": "/index.html" }]
+}

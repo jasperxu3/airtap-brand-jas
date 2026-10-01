@@ -1,0 +1,101 @@
+{
+  "revision": 2,
+  "status": "visual-review-only-awaiting-user-approval",
+  "generationTool": "built-in image_gen",
+  "referenceNode": "325:179",
+  "referenceFile": "2gTR6oqRK7HG9QBdBB9CZ8",
+  "totalPages": 10,
+  "appendix": false,
+  "consolidatedCasesPage": 7,
+  "smallIPExamplePage": 9,
+  "pureTypographyPages": 9,
+  "photographs": 0,
+  "editableSlideImplemented": false,
+  "review": [
+    "All ten final images visually inspected for major copy, clipping, typography family consistency, content hierarchy, and image reduction.",
+    "Typography and colors follow the Figma reference direction; exact Satoshi font rendering and pixel spacing are implementation-stage work.",
+    "Replaced the extended scenario inventory with an insight page to connect pain to brand idea."
+  ],
+  "files": [
+    {
+      "page": 1,
+      "file": "01-positioning.png",
+      "width": 1672,
+      "height": 941,
+      "hasMascot": false,
+      "photographs": 0
+    },
+    {
+      "page": 2,
+      "file": "02-tension.png",
+      "width": 1672,
+      "height": 941,
+      "hasMascot": false,
+      "photographs": 0
+    },
+    {
+      "page": 3,
+      "file": "03-insight.png",
+      "width": 1672,
+      "height": 941,
+      "hasMascot": false,
+      "photographs": 0
+    },
+    {
+      "page": 4,
+      "file": "04-concept.png",
+      "width": 1672,
+      "height": 941,
+      "hasMascot": false,
+      "photographs": 0
+    },
+    {
+      "page": 5,
+      "file": "05-role.png",
+      "width": 1672,
+      "height": 941,
+      "hasMascot": false,
+      "photographs": 0
+    },
+    {
+      "page": 6,
+      "file": "06-emotion.png",
+      "width": 1672,
+      "height": 941,
+      "hasMascot": false,
+      "photographs": 0
+    },
+    {
+      "page": 7,
+      "file": "07-cases.png",
+      "width": 1672,
+      "height": 941,
+      "hasMascot": false,
+      "photographs": 0
+    },
+    {
+      "page": 8,
+      "file": "08-story.png",
+      "width": 1672,
+      "height": 941,
+      "hasMascot": false,
+      "photographs": 0
+    },
+    {
+      "page": 9,
+      "file": "09-expression.png",
+      "width": 1672,
+      "height": 941,
+      "hasMascot": true,
+      "photographs": 0
+    },
+    {
+      "page": 10,
+      "file": "10-closing.png",
+      "width": 1672,
+      "height": 941,
+      "hasMascot": false,
+      "photographs": 0
+    }
+  ]
+}

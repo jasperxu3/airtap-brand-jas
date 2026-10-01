@@ -1,0 +1,55 @@
+{
+  "source": {
+    "url": "https://www.figma.com/design/2gTR6oqRK7HG9QBdBB9CZ8/Launch-Video?node-id=325-179",
+    "node": "325:179",
+    "frame": {
+      "width": 1440,
+      "height": 1024
+    },
+    "font": "Satoshi",
+    "feature": "ss01",
+    "weights": {
+      "eyebrow": 500,
+      "headline": 800
+    },
+    "headlineSize": 60.48,
+    "headlineLineHeight": 65.3184,
+    "headlineTracking": -3.024,
+    "groupGaps": [
+      8,
+      24
+    ],
+    "horizontalMargin": 72,
+    "colors": {
+      "background": "#FAF9F5",
+      "text": "#030405",
+      "accent": "#0056F6",
+      "paleBlue": "#D6E0F5"
+    }
+  },
+  "adaptation": {
+    "canvas": {
+      "width": 1920,
+      "height": 1080
+    },
+    "margin": 96,
+    "titleSize": 80,
+    "titleLineHeight": 100,
+    "bodySize": 36,
+    "bodyLineHeight": 54,
+    "sectionLabelSize": 24,
+    "footerSize": 20,
+    "spacing": [
+      8,
+      24,
+      32,
+      48,
+      72,
+      96
+    ],
+    "englishFont": "Satoshi",
+    "chineseFont": "PingFang SC or Source Han Sans; proposed because reference has no Chinese",
+    "imagePolicy": "No photographs; one small hand IP example on page 09 only",
+    "note": "Generated image previews approximate type appearance; exact font and pixel spacing reserved for editable slide implementation after approval."
+  }
+}

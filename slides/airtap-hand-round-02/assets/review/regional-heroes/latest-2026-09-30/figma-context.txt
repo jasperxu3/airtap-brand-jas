@@ -1,0 +1,228 @@
+const imgDesignAAirtap = "https://www.figma.com/api/mcp/asset/9600467f-778e-4f1b-855f-d5b8bb24aea5.png";
+const imgDesignAAirtap1 = "https://www.figma.com/api/mcp/asset/1ec01978-5a48-4f10-9ac8-7c2fa14e28d3.png";
+const imgDesignAAirtap2 = "https://www.figma.com/api/mcp/asset/fc35931b-2241-4f22-825e-560c9ed5e93d.png";
+const imgGroup831 = "https://www.figma.com/api/mcp/asset/f27af8b3-9f43-47d8-89a5-c42fb0f01e8b.svg";
+const imgGroup832 = "https://www.figma.com/api/mcp/asset/3b461cde-35de-427a-916a-2e608f316c0f.svg";
+
+export default function Component() {
+  return (
+    <div className="relative size-full" data-node-id="467:729" data-name>
+      <div className="absolute content-stretch flex flex-col h-[1024px] items-start left-0 overflow-clip top-0 w-[1440px]" data-node-id="417:82" data-name="designA · Airtap / Home">
+        <div className="content-stretch flex flex-col h-[1024px] items-center overflow-clip pb-[58px] pt-[24px] relative shrink-0 w-full" data-node-id="417:83" data-name="designA · Airtap">
+          <div aria-hidden className="absolute inset-0 pointer-events-none">
+            <div className="absolute bg-[#e9dfd1] inset-0" />
+            <img alt="" className="absolute max-w-none object-cover size-full" src={imgDesignAAirtap} />
+          </div>
+          <div className="content-stretch flex h-[46px] items-center justify-between min-h-[44px] relative shrink-0 w-[1200px]" data-node-id="417:84" data-name="Header">
+            <div className="h-[33.636px] relative shrink-0 w-[134px]" data-node-id="472:934" data-name="Group 83 1">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup831} />
+            </div>
+            <p className="[word-break:break-word] font-['DM_Sans:SemiBold'] font-[550] leading-[normal] relative shrink-0 text-[#0d1620] text-[17.251px] text-center whitespace-nowrap" data-node-id="417:86" style={{ fontVariationSettings: '"opsz" 14, "opsz" 14' }}>
+              Get early access
+            </p>
+            <div className="-translate-x-1/2 absolute content-stretch flex gap-[48.24px] items-center left-[calc(50%+0.24px)] top-[4.18px]" data-node-id="417:87" data-name="Navigation">
+              <div className="content-stretch flex flex-col items-start py-[10px] relative shrink-0" data-node-id="417:88" data-name="Link">
+                <p className="[word-break:break-word] font-['DM_Sans:Regular'] font-[450] leading-[normal] relative shrink-0 text-[#07080b] text-[13.622px] whitespace-nowrap" data-node-id="417:89" style={{ fontVariationSettings: '"opsz" 14, "opsz" 14' }}>
+                  Product
+                </p>
+              </div>
+              <div className="content-stretch flex flex-col items-start py-[10px] relative shrink-0" data-node-id="417:90" data-name="Link">
+                <p className="[word-break:break-word] font-['DM_Sans:Regular'] font-[450] leading-[normal] relative shrink-0 text-[#07080b] text-[13.622px] whitespace-nowrap" data-node-id="417:91" style={{ fontVariationSettings: '"opsz" 14, "opsz" 14' }}>
+                  Solutions
+                </p>
+              </div>
+              <div className="content-stretch flex flex-col items-start py-[10px] relative shrink-0" data-node-id="417:92" data-name="Link">
+                <p className="[word-break:break-word] font-['DM_Sans:Regular'] font-[450] leading-[normal] relative shrink-0 text-[#07080b] text-[13.622px] whitespace-nowrap" data-node-id="417:93" style={{ fontVariationSettings: '"opsz" 14, "opsz" 14' }}>
+                  Pricing
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute content-stretch flex flex-col items-start left-[230.5px] top-[123px] w-[979px]" data-node-id="417:94" data-name="Hero · Copy and actions">
+            <div className="content-stretch flex flex-col items-center relative shrink-0 w-full" data-node-id="417:95" data-name="Eyebrow">
+              <p className="[word-break:break-word] font-['DM_Sans:Medium'] font-medium leading-[21.816px] relative shrink-0 text-[#39414a] text-[14.544px] text-center tracking-[2px] whitespace-nowrap" data-node-id="417:96" style={{ fontVariationSettings: '"opsz" 14' }}>
+                YOUR PERSONAL AGENT
+              </p>
+            </div>
+            <div className="content-stretch flex flex-col h-[141.368px] items-start pt-[10.368px] relative shrink-0 w-[979px]" data-node-id="417:97" data-name="Headline">
+              <div className="absolute content-stretch flex flex-col h-[131px] items-start left-[8.64px] top-[11.81px] w-[979px]" data-node-id="417:98" data-name="Heading 1">
+                <div className="content-stretch flex flex-col items-center relative shrink-0 w-full" data-node-id="417:99" data-name="Text">
+                  <div className="[word-break:break-word] font-['DM_Sans:Bold'] font-bold leading-[0] relative shrink-0 text-[#07080b] text-[70.819px] text-center whitespace-nowrap" data-node-id="417:100" style={{ fontVariationSettings: '"opsz" 14' }}>
+                    <p className="leading-[65.508px] mb-0">Your apps make you tap.</p>
+                    <p className="leading-[65.508px]">Airtap taps back.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col items-start pt-[11.52px] relative shrink-0 w-full" data-node-id="417:101" data-name="Description">
+              <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="417:102" data-name="Paragraph">
+                <div className="content-stretch flex flex-col items-center relative shrink-0 w-full" data-node-id="417:103" data-name="Text">
+                  <div className="[word-break:break-word] font-['DM_Sans:Regular'] font-[450] leading-[0] relative shrink-0 text-[#6f7173] text-[19.521px] text-center whitespace-nowrap" data-node-id="417:104" style={{ fontVariationSettings: '"opsz" 14, "opsz" 14' }}>
+                    <p className="leading-[26.353px] mb-0">Airtap compares prices, finds dinner options, and helps with forms.</p>
+                    <p className="leading-[26.353px]">You make the choices. Then get back to your day.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex h-[78.064px] items-center justify-center pt-[26.064px] relative shrink-0 w-[979px]" data-node-id="417:105" data-name="Actions">
+              <div className="bg-[var(--airtap-accent,#31594b)] content-stretch flex h-[50px] items-center justify-center min-h-[46px] min-w-[178px] px-[24px] py-px relative rounded-[100px] shrink-0" data-node-id="417:106" data-name="Get Started">
+                <p className="[word-break:break-word] font-['DM_Sans:SemiBold'] font-[550] leading-[normal] relative shrink-0 text-[17.251px] text-center text-white whitespace-nowrap" data-node-id="417:107" style={{ fontVariationSettings: '"opsz" 14, "opsz" 14' }}>
+                  Get early access
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute content-stretch flex flex-col items-start left-[1589px] overflow-clip top-0 w-[1440px]" data-node-id="459:409" data-name="designA · Airtap / Home / japan">
+        <div className="content-stretch flex flex-col h-[1024px] items-center overflow-clip pb-[58px] pt-[24px] relative shrink-0 w-full" data-node-id="459:410" data-name="designA · Airtap">
+          <div aria-hidden className="absolute inset-0 pointer-events-none">
+            <div className="absolute bg-[#e9dfd1] inset-0" />
+            <img alt="" className="absolute max-w-none object-cover size-full" src={imgDesignAAirtap1} />
+          </div>
+          <div className="content-stretch flex h-[46px] items-center justify-between min-h-[44px] relative shrink-0 w-[1200px]" data-node-id="459:411" data-name="Header">
+            <div className="h-[33.636px] relative shrink-0 w-[134px]" data-node-id="472:944" data-name="Group 83 1">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup831} />
+            </div>
+            <p className="[word-break:break-word] font-['DM_Sans:SemiBold'] font-[550] leading-[normal] relative shrink-0 text-[#0d1620] text-[17.251px] text-center whitespace-nowrap" data-node-id="459:413" style={{ fontVariationSettings: '"opsz" 14, "opsz" 14' }}>
+              Get early access
+            </p>
+            <div className="-translate-x-1/2 absolute content-stretch flex gap-[48.24px] items-center left-[calc(50%+0.24px)] top-[4.18px]" data-node-id="459:414" data-name="Navigation">
+              <div className="content-stretch flex flex-col items-start py-[10px] relative shrink-0" data-node-id="459:415" data-name="Link">
+                <p className="[word-break:break-word] font-['DM_Sans:Regular'] font-[450] leading-[normal] relative shrink-0 text-[#07080b] text-[13.622px] whitespace-nowrap" data-node-id="459:416" style={{ fontVariationSettings: '"opsz" 14, "opsz" 14' }}>
+                  Product
+                </p>
+              </div>
+              <div className="content-stretch flex flex-col items-start py-[10px] relative shrink-0" data-node-id="459:417" data-name="Link">
+                <p className="[word-break:break-word] font-['DM_Sans:Regular'] font-[450] leading-[normal] relative shrink-0 text-[#07080b] text-[13.622px] whitespace-nowrap" data-node-id="459:418" style={{ fontVariationSettings: '"opsz" 14, "opsz" 14' }}>
+                  Solutions
+                </p>
+              </div>
+              <div className="content-stretch flex flex-col items-start py-[10px] relative shrink-0" data-node-id="459:419" data-name="Link">
+                <p className="[word-break:break-word] font-['DM_Sans:Regular'] font-[450] leading-[normal] relative shrink-0 text-[#07080b] text-[13.622px] whitespace-nowrap" data-node-id="459:420" style={{ fontVariationSettings: '"opsz" 14, "opsz" 14' }}>
+                  Pricing
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute content-stretch flex flex-col items-start left-[230.5px] top-[123px] w-[979px]" data-node-id="459:421" data-name="Hero · Copy and actions">
+            <div className="content-stretch flex flex-col items-center relative shrink-0 w-full" data-node-id="459:422" data-name="Eyebrow">
+              <p className="[word-break:break-word] font-['DM_Sans:Medium'] font-medium leading-[21.816px] relative shrink-0 text-[#39414a] text-[14.544px] text-center tracking-[2px] whitespace-nowrap" data-node-id="459:423" style={{ fontVariationSettings: '"opsz" 14' }}>
+                YOUR PERSONAL AGENT
+              </p>
+            </div>
+            <div className="content-stretch flex flex-col h-[141.368px] items-start pt-[10.368px] relative shrink-0 w-[979px]" data-node-id="459:424" data-name="Headline">
+              <div className="absolute content-stretch flex flex-col h-[131px] items-start left-[8.64px] top-[11.81px] w-[979px]" data-node-id="459:425" data-name="Heading 1">
+                <div className="content-stretch flex flex-col items-center relative shrink-0 w-full" data-node-id="459:426" data-name="Text">
+                  <div className="[word-break:break-word] font-['DM_Sans:Bold'] font-bold leading-[0] relative shrink-0 text-[#07080b] text-[70.819px] text-center whitespace-nowrap" data-node-id="459:427" style={{ fontVariationSettings: '"opsz" 14' }}>
+                    <p className="leading-[65.508px] mb-0">Your apps make you tap.</p>
+                    <p className="leading-[65.508px]">Airtap taps back.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col items-start pt-[11.52px] relative shrink-0 w-full" data-node-id="459:428" data-name="Description">
+              <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="459:429" data-name="Paragraph">
+                <div className="content-stretch flex flex-col items-center relative shrink-0 w-full" data-node-id="459:430" data-name="Text">
+                  <div className="[word-break:break-word] font-['DM_Sans:Regular'] font-[450] leading-[0] relative shrink-0 text-[#6f7173] text-[19.521px] text-center whitespace-nowrap" data-node-id="459:431" style={{ fontVariationSettings: '"opsz" 14, "opsz" 14' }}>
+                    <p className="leading-[26.353px] mb-0">Airtap compares prices, finds dinner options, and helps with forms.</p>
+                    <p className="leading-[26.353px]">You make the choices. Then get back to your day.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex h-[78.064px] items-center justify-center pt-[26.064px] relative shrink-0 w-[979px]" data-node-id="459:432" data-name="Actions">
+              <div className="bg-[var(--airtap-accent,#31594b)] content-stretch flex h-[50px] items-center justify-center min-h-[46px] min-w-[178px] px-[24px] py-px relative rounded-[100px] shrink-0" data-node-id="459:433" data-name="Get Started">
+                <p className="[word-break:break-word] font-['DM_Sans:SemiBold'] font-[550] leading-[normal] relative shrink-0 text-[17.251px] text-center text-white whitespace-nowrap" data-node-id="459:434" style={{ fontVariationSettings: '"opsz" 14, "opsz" 14' }}>
+                  Get early access
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute content-stretch flex flex-col items-start left-[3178px] overflow-clip top-0 w-[1440px]" data-node-id="466:684" data-name="designA · Airtap / Home / india">
+        <div className="content-stretch flex flex-col h-[1024px] items-center overflow-clip pb-[58px] pt-[24px] relative shrink-0 w-full" data-node-id="466:685" data-name="designA · Airtap">
+          <div aria-hidden className="absolute inset-0 pointer-events-none">
+            <div className="absolute bg-[#e9dfd1] inset-0" />
+            <div className="absolute inset-0 overflow-hidden">
+              <img alt="" className="absolute left-[-7%] max-w-none size-[114%] top-[-14%]" src={imgDesignAAirtap2} />
+            </div>
+          </div>
+          <div className="content-stretch flex h-[46px] items-center justify-between min-h-[44px] relative shrink-0 w-[1200px]" data-node-id="466:686" data-name="Header">
+            <div className="h-[33.636px] relative shrink-0 w-[134px]" data-node-id="472:955" data-name="Group 83 1">
+              <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgGroup832} />
+            </div>
+            <p className="[word-break:break-word] font-['DM_Sans:SemiBold'] font-[550] leading-[normal] relative shrink-0 text-[#0d1620] text-[17.251px] text-center whitespace-nowrap" data-node-id="466:688" style={{ fontVariationSettings: '"opsz" 14, "opsz" 14' }}>
+              Get early access
+            </p>
+            <div className="-translate-x-1/2 absolute content-stretch flex gap-[48.24px] items-center left-[calc(50%+0.24px)] top-[4.18px]" data-node-id="466:689" data-name="Navigation">
+              <div className="content-stretch flex flex-col items-start py-[10px] relative shrink-0" data-node-id="466:690" data-name="Link">
+                <p className="[word-break:break-word] font-['DM_Sans:Regular'] font-[450] leading-[normal] relative shrink-0 text-[#07080b] text-[13.622px] whitespace-nowrap" data-node-id="466:691" style={{ fontVariationSettings: '"opsz" 14, "opsz" 14' }}>
+                  Product
+                </p>
+              </div>
+              <div className="content-stretch flex flex-col items-start py-[10px] relative shrink-0" data-node-id="466:692" data-name="Link">
+                <p className="[word-break:break-word] font-['DM_Sans:Regular'] font-[450] leading-[normal] relative shrink-0 text-[#07080b] text-[13.622px] whitespace-nowrap" data-node-id="466:693" style={{ fontVariationSettings: '"opsz" 14, "opsz" 14' }}>
+                  Solutions
+                </p>
+              </div>
+              <div className="content-stretch flex flex-col items-start py-[10px] relative shrink-0" data-node-id="466:694" data-name="Link">
+                <p className="[word-break:break-word] font-['DM_Sans:Regular'] font-[450] leading-[normal] relative shrink-0 text-[#07080b] text-[13.622px] whitespace-nowrap" data-node-id="466:695" style={{ fontVariationSettings: '"opsz" 14, "opsz" 14' }}>
+                  Pricing
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="absolute content-stretch flex flex-col items-start left-[230.5px] top-[123px] w-[979px]" data-node-id="466:696" data-name="Hero · Copy and actions">
+            <div className="content-stretch flex flex-col items-center relative shrink-0 w-full" data-node-id="466:697" data-name="Eyebrow">
+              <p className="[word-break:break-word] font-['DM_Sans:Medium'] font-medium leading-[21.816px] relative shrink-0 text-[#39414a] text-[14.544px] text-center tracking-[2px] whitespace-nowrap" data-node-id="466:698" style={{ fontVariationSettings: '"opsz" 14' }}>
+                YOUR PERSONAL AGENT
+              </p>
+            </div>
+            <div className="content-stretch flex flex-col h-[141.368px] items-start pt-[10.368px] relative shrink-0 w-[979px]" data-node-id="466:699" data-name="Headline">
+              <div className="absolute content-stretch flex flex-col h-[131px] items-start left-[8.64px] top-[11.81px] w-[979px]" data-node-id="466:700" data-name="Heading 1">
+                <div className="content-stretch flex flex-col items-center relative shrink-0 w-full" data-node-id="466:701" data-name="Text">
+                  <div className="[word-break:break-word] font-['DM_Sans:Bold'] font-bold leading-[0] relative shrink-0 text-[#07080b] text-[70.819px] text-center whitespace-nowrap" data-node-id="466:702" style={{ fontVariationSettings: '"opsz" 14' }}>
+                    <p className="leading-[65.508px] mb-0">Your apps make you tap.</p>
+                    <p className="leading-[65.508px]">Airtap taps back.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex flex-col items-start pt-[11.52px] relative shrink-0 w-full" data-node-id="466:703" data-name="Description">
+              <div className="content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="466:704" data-name="Paragraph">
+                <div className="content-stretch flex flex-col items-center relative shrink-0 w-full" data-node-id="466:705" data-name="Text">
+                  <div className="[word-break:break-word] font-['DM_Sans:Regular'] font-[450] leading-[0] relative shrink-0 text-[#6f7173] text-[19.521px] text-center whitespace-nowrap" data-node-id="466:706" style={{ fontVariationSettings: '"opsz" 14, "opsz" 14' }}>
+                    <p className="leading-[26.353px] mb-0">Airtap compares prices, finds dinner options, and helps with forms.</p>
+                    <p className="leading-[26.353px]">You make the choices. Then get back to your day.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="content-stretch flex h-[78.064px] items-center justify-center pt-[26.064px] relative shrink-0 w-[979px]" data-node-id="466:707" data-name="Actions">
+              <div className="bg-[var(--airtap-accent,#31594b)] content-stretch flex h-[50px] items-center justify-center min-h-[46px] min-w-[178px] px-[24px] py-px relative rounded-[100px] shrink-0" data-node-id="466:708" data-name="Get Started">
+                <p className="[word-break:break-word] font-['DM_Sans:SemiBold'] font-[550] leading-[normal] relative shrink-0 text-[17.251px] text-center text-white whitespace-nowrap" data-node-id="466:709" style={{ fontVariationSettings: '"opsz" 14, "opsz" 14' }}>
+                  Get early access
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="absolute h-[1060px] left-[3036px] top-[476px] w-[1484px]" data-node-id="472:966" data-name="image 132" />
+    </div>
+  );
+}
+
+SUPER CRITICAL: The generated React+Tailwind code MUST be converted to match the target project's technology stack and styling system.
+1. Analyze the target codebase to identify: technology stack, styling approach, component patterns, and design tokens
+2. Convert React syntax to the target framework/library
+3. Transform all Tailwind classes to the target styling system while preserving exact visual design
+4. Follow the project's existing patterns and conventions
+DO NOT install any Tailwind as a dependency unless the user instructs you to do so.
+
+
+Node ids have been added to the code as data attributes, e.g. `data-node-id="1:2"`.
+
+Images and SVGs will be stored as constants, e.g. const image = 'https://www.figma.com/api/mcp/asset/550e8400-e29b-41d4-a716-446655440000.png'. These constants will be used in the code as the source for the image, ex: <img src={image} />. Image assets are stored on a remote server for 7 days and can be fetched using the provided URLs until they expire.

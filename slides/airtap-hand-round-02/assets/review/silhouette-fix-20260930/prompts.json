@@ -1,0 +1,26 @@
+{
+  "tool": "built-in image_gen",
+  "reference": "/Users/jasper/Documents/ChatGPT/airtap script/slides/airtap-hand-round-02/assets/review/standard-transparent.png",
+  "base": "Use case: precise-object-edit. Surgical edit of the supplied approved Airtap three-view transparent reference board. This is an EDIT, not a redesigned character. Return the same full 1671 x 941 landscape canvas with all three views in their current EXACT positions, at identical scale. Keep the side and back views and existing captions unchanged. Keep transparency.\nThe LEFT FRONT character is the only edit target. PRESERVE ITS ENTIRE OUTER CONTOUR, internal finger valleys, finger widths and relative heights, palm, outward short side thumb, exact cream color, lighting and all surface shading. The front silhouette including the thumb is approximately as wide as it is tall. The middle finger rises only the current amount above the outside fingers. DO NOT elongate, widen, tilt, pose, rotate, curl, grip, round out or otherwise reshape any part of the hand. It is already the required final shape. The edges should overlay the original front silhouette exactly. Do not replace it with a newly interpreted hand. Exactly three upright rounded fingers and one side thumb. No arms, mouth, blush or extra limbs.\nOnly TWO small local regions may change:\n1) The charcoal eyes on the front palm. Keep their centers at approximately x255,y515 and x344,y515. Keep the exact small pink nose at x301,y526 UNCHANGED. The expression can change inside small eye-sized bounds only. Do not enlarge the face or move it.\n2) Add a small independent decorative object in the empty transparent gap just above the right-side thumb and to the right of the outer finger: roughly x575–688 and y245–380. It must NOT touch, cover, be held by or deform the hand. Leave a visible transparent gap between it and the hand. No other additions.\nAll pixels of the mascot body outside those small eyes are to remain visually identical to the source. The entire original front character is required, not just a face.",
+  "variants": [
+    [
+      "star",
+      "EYES: excited, two small dark inward-facing squeezed chevrons > <, no eyebrows, same stroke thickness as the original eyes. OBJECT: ONE small smooth warm golden-yellow FOUR-point sparkle, no face or markings, centered near x632,y308, maximum width 105 and height 115. The star floats independently in that empty gap, never held. Preserve every aspect of the original hand anatomy."
+    ],
+    [
+      "heart",
+      "EYES: reassured, two small charcoal happy closed upward arches like ∩ ∩, similar small visual weight to the original eyes. OBJECT: ONE small smooth coral-pink heart, no face or markings, centered near x632,y308, maximum width 105 and height 100. The heart floats independently beside the hand in that empty gap, never hugged or held. Preserve every aspect of the original hand anatomy."
+    ]
+  ],
+  "outputs": {
+    "star": "/Users/jasper/Documents/ChatGPT/airtap script/slides/airtap-hand-round-02/assets/review/silhouette-fix-20260930/star.png",
+    "heart": "/Users/jasper/Documents/ChatGPT/airtap script/slides/airtap-hand-round-02/assets/review/silhouette-fix-20260930/heart.png"
+  },
+  "qa": {
+    "outlineIoU": {
+      "star": 0.9904,
+      "heart": 0.9947
+    },
+    "method": "Connected hand alpha mask > 200, same canvas and coordinates, compared with approved standard-transparent.png. No geometric transformations."
+  }
+}

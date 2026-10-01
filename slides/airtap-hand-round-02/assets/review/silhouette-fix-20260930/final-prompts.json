@@ -1,0 +1,21 @@
+{
+  "tool": "built-in image_gen",
+  "common": "Use case: precise-object-edit. This is a tiny local edit to the provided PNG, NOT a new render or a redesign. Keep the SAME 1671 x 941 full three-view board, all three characters and captions in the exact same coordinates and scales. Keep actual transparency. Most critically preserve every part of the LEFT FRONT hand: exactly its existing outline, three finger widths and heights, short outward thumb shape, thumb angle, palm width/height, cream material, pink nose and current eyes. Do not tilt, rotate, enlarge, reposition or reshape the hand. The thumb must stay precisely as it is in the supplied board. Do not bend it inward, make it longer, curl it, wrap it around a prop, or give it a deep grasping crease. Keep side view and back view unchanged. Only relocate/resize the existing decorative prop, according to the coordinates below. The 3D prop may softly touch the hand but the hand does not deform. All hand pixels outside the small natural prop overlap must stay visually identical.",
+  "variants": [
+    [
+      "star-hold",
+      "star.png",
+      "Move the golden FOUR-point star from its current floating upper-right location down to the space between the third finger and thumb, centered about (624,409), 165 pixels wide and 180 pixels high, bounds x541-707,y319-499. The star's lower portion goes BEHIND the EXISTING thumb: the existing unchanged thumb should naturally overlap just the lower tip, suggesting the hand carries/presents the star. Retain the entire thumb's same exterior arc and pose. The star is NOT separately floating above the hand. Keep the excited chevron eyes, unchanged pink nose and all anatomy precisely as supplied. There is just one star, no other props."
+    ],
+    [
+      "heart-lower-right",
+      "heart.png",
+      "Move the pink heart from its current floating upper-right location to the LOWER RIGHT edge of the hand, centered about (609,678), width 200 pixels and height 176 pixels, bounds x509-709,y590-766. Its upper left edge may slightly overlap the lower-right palm edge, below the thumb. The heart is an independent prop placed there, not hugged or grasped. It must not change or cover the thumb tip or upper arc: that remains exactly the supplied anatomy. Keep the happy arch eyes, unchanged pink nose and all anatomy precisely as supplied. There is just one heart, no other props."
+    ]
+  ],
+  "folder": "/Users/jasper/Documents/ChatGPT/airtap script/slides/airtap-hand-round-02/assets/review/silhouette-fix-20260930",
+  "outputs": {
+    "star-hold": "/Users/jasper/Documents/ChatGPT/airtap script/slides/airtap-hand-round-02/assets/review/silhouette-fix-20260930/star-hold.png",
+    "heart-lower-right": "/Users/jasper/Documents/ChatGPT/airtap script/slides/airtap-hand-round-02/assets/review/silhouette-fix-20260930/heart-lower-right.png"
+  }
+}

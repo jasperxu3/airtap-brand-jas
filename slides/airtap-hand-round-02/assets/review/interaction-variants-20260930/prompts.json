@@ -1,0 +1,40 @@
+{
+  "references": [
+    "/Users/jasper/Downloads/airtap/outputs/ip-expressions/current/airtap-ip-standard-three-views.png",
+    "/Users/jasper/Downloads/airtap/outputs/ip-expressions/current/airtap-expression-guide-v6.png",
+    "/var/folders/bz/8vt1fwd16rv3bxdggdd1v_qm0000gn/T/codex-clipboard-14ecb2fa-ef8f-4402-88f1-cadc25a89bcb.png"
+  ],
+  "base": "Use case: stylized-concept. Asset type: single transparent-background 3D character illustration for the Airtap V2 presentation. Generate ONE mascot interacting physically with ONE accessory, filling roughly 80% of a square image, clean full silhouette and all props entirely inside the frame with generous edge clearance. No scene, no background color, no platform, no typography, no logos, no lettering, no extra characters.\nREFERENCE ROLES: Image 1 is the authoritative character identity: warm cream softly matte hand, three distinct LONG rounded upright fingers (center tallest, outside two shorter), one side thumb on viewer RIGHT, broad softly rounded palm with flat closed lower base and no wrist/arm. Preserve these long proportions, volume, material and colors. It is NOT a squat mitten or five-finger human hand. Image 2 is authoritative facial-expression grammar: small charcoal simple eyes + ONE small rose-pink sphere nose between the eyes, absolutely NO MOUTH. Expression can change eye curves; preserve exact pink nose hue and placement, no red/orange nose, no blush, no extra faces or limbs. Image 3 is ONLY a reference for playful physical interaction with accessories, NOT its outdated mouth or old short finger proportions. Do not reproduce the page or collage.\nSoft premium studio clay render with gentle realistic shading, no grain, strong readable gesture, genuinely transparent alpha background. Character shape may bend gently for the action but must still be unmistakably the Image 1 long-finger hand. A complete finished illustration with convincing contact/occlusion between character and prop, not an object floating next to an unchanged neutral pose.\n",
+  "variants": [
+    [
+      "cap",
+      "ACTION: a friendly jaunty greeting with a small soft cornflower-blue cap perched diagonally around the upper fingers. The upper ends of the long fingers remain readable under/behind the cap, especially the tallest center finger. One upper outer fingertip bends slightly onto the end of the cap brim as if adjusting it; no added arm or limb. Body leans about 12 degrees to viewer left with the thumb on the right visibly lifted away from the palm. Winking face: one charcoal vertical eye and one tightly curved winking eye, rose-pink nose, no mouth. The gesture and cap brim should give an upbeat ready-to-help personality. One cap only, no other props."
+    ],
+    [
+      "headphones",
+      "ACTION: enjoying a quiet moment of music. ONE pair of soft cornflower-blue over-ear headphones wraps naturally around the upper sides of the palm/fingers, narrow curved padded band arches behind/over the longest central finger without flattening its shape. Mascot softly rocks/leans about 15 degrees to viewer RIGHT, fingers with a gentle relaxed offset rather than a stiff upright lineup. Both eyes are happy closed upward arcs from Image 2, small pink nose stays visible, no mouth. The headphone cups visibly touch and partly occlude the outer edges at consistent depth. Keep all three long fingers recognizable. No musical notes or floating decorative objects. Cheerful relaxed body language."
+    ],
+    [
+      "star",
+      "ACTION: joyfully presenting a single plump small golden-yellow FOUR-POINT sparkle-star, about 28% of the palm width. The right-side thumb curls gently upward underneath the star and visibly supports its lower point, the star leans into the thumb/palm crease with convincing contact. Mascot leans forward and slightly toward the star with a light diagonal buoyancy, not standing perfectly upright. Three long upward fingers remain recognizable and full length; center tallest. Eyes are excited softly squeezed chevrons as in Image 2. Pink spherical nose visible, absolutely no mouth. Star is a simple unmarked rounded four-point object WITHOUT a face, no extra sparkles or floating marks."
+    ],
+    [
+      "heart",
+      "ACTION: warmly cuddling ONE soft coral-pink rounded heart against the LOWER RIGHT side of the palm, safely below the small pink nose so the whole face stays readable. The side thumb wraps around the outer curve of the heart, physically embracing it with convincing overlap/contact, no extra arms. The whole long-finger hand tilts affectionately toward the heart by about 12 degrees, with a gentle curved body attitude; the three long fingers keep their length and center-tallest relationship. Both eyes are soft happy closed arcs from Image 2. NO mouth, NO blush. The heart is an unmarked soft object about 35% of palm width with no face. A tender active cuddle, not a floating heart icon pasted over a neutral mascot."
+    ]
+  ],
+  "tool": "built-in image_gen",
+  "outputs": {
+    "cap": "/Users/jasper/.codex/generated_images/01a0f179-4b05-7030-bf02-220521ccf894/exec-efed13ab-12ed-4590-9b64-7b39d11ec715.png",
+    "headphones": "/Users/jasper/.codex/generated_images/01a0f179-4b05-7030-bf02-220521ccf894/exec-5389ab51-4ca7-4b47-9e4b-d0c4a861fff0.png",
+    "star": "/Users/jasper/.codex/generated_images/01a0f179-4b05-7030-bf02-220521ccf894/exec-cd72ec8d-e78d-4c61-814c-df4374ac919d.png",
+    "heart": "/Users/jasper/.codex/generated_images/01a0f179-4b05-7030-bf02-220521ccf894/exec-222cf25d-a9b0-4457-8f91-162eabb1c70f.png"
+  },
+  "capCorrection": "Edit this transparent Airtap illustration. Image 1 is edit target, image 2 is authoritative three-view anatomy. Correct ONLY the extra finger near the cap on the upper right: delete the small curled extra digit that touches the end of the blue brim and is visibly sitting behind the existing right tall finger. The final hand must have EXACTLY FOUR total digits: three long upward rounded fingers (left, tallest center, right) and ONE outward side thumb at lower right. The existing left, center, right tall fingers and side thumb stay as they are. The brim is unsupported at its far right, that is fine; the cap still sits naturally over the three long fingers. Keep the cap, all remaining character, warm cream material, small pink round nose, wink, tilt, framing, lighting and transparent background unchanged. No mouth, no additional limbs, no text. This is a surgical removal of the extra curled digit only.",
+  "saved_assets": {
+    "cap": "/Users/jasper/Documents/ChatGPT/airtap script/slides/airtap-hand-round-02/assets/review/interaction-variants-20260930/cap.png",
+    "headphones": "/Users/jasper/Documents/ChatGPT/airtap script/slides/airtap-hand-round-02/assets/review/interaction-variants-20260930/headphones.png",
+    "star": "/Users/jasper/Documents/ChatGPT/airtap script/slides/airtap-hand-round-02/assets/review/interaction-variants-20260930/star.png",
+    "heart": "/Users/jasper/Documents/ChatGPT/airtap script/slides/airtap-hand-round-02/assets/review/interaction-variants-20260930/heart.png"
+  }
+}
